@@ -1,0 +1,33 @@
+{
+
+    "AIVISION.RecognitionMode.QRCode|block": "二维码识别",
+    "AIVISION.RecognitionMode.Barcode|block": "条形码识别",
+    "AIVISION.RecognitionMode.Face|block": "人脸识别",
+    "AIVISION.RecognitionMode.Image|block": "图像识别",
+    "AIVISION.RecognitionMode.Number|block": "数字识别",
+    "AIVISION.RecognitionMode.TrafficCard|block": "交通识别:卡片",
+    "AIVISION.RecognitionMode.TrafficSign|block": "交通识别:标识牌",
+    "AIVISION.RecognitionMode.VisualPatrol|block": "视觉巡线",
+    "AIVISION.RecognitionMode.MachineLearning|block": "机器学习",
+    "AIVISION.ColorSelection.All|block": "任意颜色",
+    "AIVISION.ColorSelection.Red|block": "红色",
+    "AIVISION.ColorSelection.Green|block": "绿色",
+    "AIVISION.ColorSelection.Blue|block": "蓝色",
+    "AIVISION.CodeData.X|block": "X坐标",
+    "AIVISION.CodeData.Y|block": "Y坐标",
+    "AIVISION.CodeData.W|block": "宽度",
+    "AIVISION.CodeData.H|block": "高度",
+    "AIVISION.CodeData.CenterX|block": "中心X",
+    "AIVISION.CodeData.CenterY|block": "中心Y",
+    "AIVISION.CodeData.Tag|block": "识别结果",
+    "AIVISION.CodeData.Angle|block": "巡线结果",
+    "AIVISION.K210_Menu|block": "视觉模块返回菜单",
+    "AIVISION.K210_Init|block": "视觉模块初始化",
+    "AIVISION.K210_RGB_lights|block": "设置视觉RGB灯颜色 R:%r G:%g B:%b",
+    "AIVISION.recognize_code|block": "%mode",
+    "AIVISION.recognize_color|block": "颜色识别 %color",
+    "AIVISION.get_code_data|block": "获取 %data",
+    "AIVISION.clearSerialBuffer|block": "清空串口缓存",
+
+    "{id:category}AIVISION": "AI VISION"
+}
